@@ -1,2 +1,2 @@
 # Operating-System
-This repository contains some shell programs for my OS course.
+This repository contains some shell programs of my OS course.
